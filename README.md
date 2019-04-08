@@ -41,6 +41,7 @@ These are the replacements:
 -ZombieBear = Fat Cop
 -ZombieVulture = Soldier
 -BossGrace = FarmerFeral
+-Wolves = Biker
 
 OPTIONAL:
 -Wolves = Includes Wolf, DireWolf
