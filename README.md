@@ -33,7 +33,7 @@ Version A17-1
 Disables Screamer horde calling and replaces the Wight, Spider, Dog, ZombieBear, Vulture, BossGrace, Wolf, and DireWolf with other zombies.
 There is a variation that includes wolves.
 
-All versions replace these:
+These are the replacements:
 -Screamer horde calling
 -Wight = Burnt
 -Spider =Nurse
