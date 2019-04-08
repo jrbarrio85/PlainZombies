@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<xml>
+	<ModInfo>
+		<Name value="JRB_TZ_PlainZombies" />
+		<Description value="Disables Screamer and replaces the Wight, Spider, Dog, ZombieBear, ZombieVulture, BossGrace, Wolf, and DireWolf with other zombies." />
+		<Author value="jrbarrio" />
+		<Version value="9.0" />
+
+	</ModInfo>
+</xml>
